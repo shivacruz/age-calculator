@@ -1,6 +1,8 @@
 # Age-calculator
 Age Calculator App – a sleek and modern web application that helps you effortlessly calculate your age based on your birthdate.
 
+Live Preview 📷 - https://phoxsite.com/age-calculator/
+
 **Features ✨**
 
 User-Friendly Interface: Simple and intuitive design for easy navigation.
@@ -19,8 +21,6 @@ HTML5
 CSS3
 
 JavaScript
-
-Live Preview 📷 - https://phoxsite.com/age-calculator/
 
 **Getting Started 🌐**
 
