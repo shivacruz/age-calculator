@@ -15,8 +15,11 @@ Click the "Calculate Age" button to see your age in years.
 **Technologies Used 💻**
 
 HTML5
+
 CSS3
+
 JavaScript
+
 Live Preview 📷 - https://phoxsite.com/age-calculator/
 
 **Getting Started 🌐**
